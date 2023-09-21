@@ -1,6 +1,6 @@
-div:has(.table-skeleton) {
+/*div:has(.table-skeleton) {
   margin: -8px;
-}
+}*/
 
 .table-skeleton {
   border-spacing: 0;
